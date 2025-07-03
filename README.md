@@ -43,16 +43,16 @@ Whether you’re also starting your QA journey or refreshing core Java concepts,
 ## 📁 Folder Structure (IntelliJ Project View)
 
 src
-└── main
-└── java
-└── org
-└── abdul-alim
-├── Array_List/
-├── BasicSyntax/
-├── Exception/
-├── Logic_Building/
-├── Methods_Function/
-└── OOP_Concept/
+- └── main
+- └── java
+- └── org
+- └── abdul-alim
+- ├── Array_List/
+- ├── BasicSyntax/
+- ├── Exception/
+- ├── Logic_Building/
+- ├── Methods_Function/
+- └── OOP_Concept/
 
 ## Why This Repository?
 
