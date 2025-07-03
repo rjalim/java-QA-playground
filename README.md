@@ -1,6 +1,6 @@
-﻿# Java Fundamentals for Automation Testers
+# ☕ Java QA Playground – From Basics to OOP for Test Automation 🧪
 
-Welcome to the **Java Fundamentals** repository! 🎉
+Welcome to the **Java QA Playground** repository!
 
 This repository is designed for **automation testers** who want to build a strong foundation in **Java** while preparing to work with **Selenium** for web automation. Whether you're a beginner or looking to refresh your knowledge, this repository covers essential Java concepts tailored to the needs of automation testers.
 
