@@ -2,7 +2,57 @@
 
 Welcome to the **Java QA Playground** repository!
 
-This repository is designed for **automation testers** who want to build a strong foundation in **Java** while preparing to work with **Selenium** for web automation. Whether you're a beginner or looking to refresh your knowledge, this repository covers essential Java concepts tailored to the needs of automation testers.
+This project is part of my learning journey as a **Software Quality Assurance (SQA)** enthusiast. The goal is to build a solid foundation in **Java programming**, especially to support my growth in **automation testing (e.g., Selenium)**.
+
+Whether you’re also starting your QA journey or refreshing core Java concepts, I hope this repository is helpful.
+
+---
+
+## 🎯 What This Repo Covers
+
+🔰 **Getting Started**
+- Hello World & Basic Syntax
+- Variables, Data Types, and User Input
+
+🧮 **Logic Building**
+- Arithmetic Operations
+- Conditional Statements (if–else, switch)
+- Loops (for, while)
+- String Length Validation
+
+⚙️ **Methods & Reusability**
+- Method Declaration & Usage
+- Method Overloading
+
+🧱 **Object-Oriented Programming (OOP)**
+- Class & Object Structure
+- Encapsulation
+- Inheritance (Single, Multiple)
+- Real-World Examples: Student, Book, Teacher
+
+📚 **Collections**
+- ArrayList
+- LinkedList
+
+🚨 **Exception Handling**
+- try-catch blocks
+- Error Handling Basics
+
+---
+
+## 📁 Folder Structure (IntelliJ Project View)
+
+src
+└── main
+└── java
+└── org
+└── abdul-alim
+├── Array_List/
+├── BasicSyntax/
+├── Exception/
+├── Logic_Building/
+├── Methods_Function/
+└── OOP_Concept/
 
 ## Why This Repository?
 
